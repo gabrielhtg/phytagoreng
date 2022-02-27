@@ -17,6 +17,7 @@ Untuk cara menggunakannya, ikuti langkah-langkah berikut!
 4. Setelah mendapatkan hasil, anda akan disuguhkan dengan pertanyaan *Mau hitung lagi?*. 
    - Untuk melanjut menghitung lagi, tekan angka `1`. 
    - Untuk exit, tekan angka `0`
+  ![demo](demo.gif)
 5. Selesai.
 
 ## <b>About Me</b>
